@@ -55,11 +55,3 @@ To decrypt text:
 ## Output
 
 ![alt text](console_output-1.png)
-
-## Note
-
-- This encryption algorithm is for educational purposes and may not provide strong security. It's recommended to use standard encryption libraries for secure data transmission.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

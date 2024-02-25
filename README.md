@@ -35,7 +35,7 @@ To decrypt text:
 1. Run the encryption script:
 
     ```bash
-    python encryption.py
+    python encoding.py
     ```
 
 2. Enter the text to be encrypted when prompted.
@@ -45,7 +45,7 @@ To decrypt text:
 4. Run the decryption script:
 
     ```bash
-    python decryption.py
+    python decoding.py
     ```
 
 5. Enter the encrypted text when prompted.

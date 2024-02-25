@@ -52,7 +52,7 @@ To decrypt text:
 
 6. The decrypted text will be displayed.
    
-7. OUTPUT:-
+## Output
 
 ![alt text](console_output-1.png)
 

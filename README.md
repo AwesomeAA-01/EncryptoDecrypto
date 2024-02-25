@@ -51,6 +51,8 @@ To decrypt text:
 5. Enter the encrypted text when prompted.
 
 6. The decrypted text will be displayed.
+   
+7. OUTPUT:-
 
 ![alt text](console_output-1.png)
 
